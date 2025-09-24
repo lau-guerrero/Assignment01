@@ -123,8 +123,14 @@
 // alert("Hello " + name + ", welcome to the " + course + " class!");
 
 //STEP 14
-let name = "Laura Guerrero";
+// let name = "Laura Guerrero";
+// let course = "JavaScript"
+
+// alert(`Hello  ${name},
+// welcome to the ${course} class!`);
+
+//STEP 15
+let name = prompt("Please enter your name:");
 let course = "JavaScript"
 
-alert(`Hello  ${name},
-welcome to the ${course} class!`);
+alert(`Hello ${name}, welcome to the ${course} class!`);
