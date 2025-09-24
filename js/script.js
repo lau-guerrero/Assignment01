@@ -113,6 +113,11 @@
 //alert("Hello " + "Laura Guerrero" + ", welcome to the JavaScript class!");
 
 //STEP 12
-let name = "Laura Guerrero";
+// let name = "Laura Guerrero";
 
-alert("Hello " + name + ", welcome to the JavaScript class!");
+// alert("Hello " + name + ", welcome to the JavaScript class!");
+
+//STEP 13
+let name = "Laura Guerrero";
+let course = "JavaScript"
+alert("Hello " + name + ", welcome to the " + course + " class!");
