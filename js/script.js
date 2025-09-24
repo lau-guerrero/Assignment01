@@ -160,7 +160,15 @@
 // console.log(x);
 
 //STEP 20
-let x = 20 % 3;  // remainder is 2
-x /= 1;         
+// let x = 20 % 3;  // remainder is 2
+// x /= 1;         
 
-console.log(x);  
+// console.log(x);  
+
+//STEP 21
+let age = 22;
+let hasTicket = true;
+let isMember = false;
+
+let result = (age >= 18 && age <= 25) || hasTicket;
+console.log(result); 
