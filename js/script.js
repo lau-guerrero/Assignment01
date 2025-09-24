@@ -110,6 +110,6 @@
 // console.log(typeof notAssigned);
 
 //STEP 11
-let myName = "Laura Guerrero";
+alert("Hello " + "Laura Guerrero" + ", welcome to the JavaScript class!");
 
-alert("Hello " + myName + ", welcome to the JavaScript class!");
+//STEP 12
