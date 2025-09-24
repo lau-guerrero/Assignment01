@@ -85,9 +85,26 @@
 // console.log(someString)
 
 //STEP 9
-let noValue = null;
-console.log(noValue); 
+// let noValue = null;
+// console.log(noValue); 
 
+// let notAssigned;
+// console.log(notAssigned);
+
+//STEP 10
+
+// String 
+console.log(typeof "Hello World");
+
+// Number 
+console.log(typeof 42);           
+
+// Boolean 
+console.log(typeof true);          
+
+// Object literal
+console.log(typeof { name: "Laura" }); 
+
+// Undefined
 let notAssigned;
-console.log(notAssigned);
-
+console.log(typeof notAssigned);
