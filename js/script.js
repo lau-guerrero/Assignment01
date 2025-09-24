@@ -148,7 +148,13 @@
 // console.log(x + y);
 
 //STEP 18
+// let x = 20
+// x += 20
+
+// console.log(x);
+
+//STEP 19
 let x = 20
-x += 20
+x *= 5
 
 console.log(x);
