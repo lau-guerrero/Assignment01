@@ -70,11 +70,17 @@
 
 //STEP 7
 
-// Boolean + String
-let boolString = true + " is awesome";
-console.log(boolString); 
+// // Boolean + String
+// let boolString = true + " is awesome";
+// console.log(boolString); 
 
 
-// Number + Boolean
-let numberBool = 10 + false;
-console.log(numberBool); 
+// // Number + Boolean
+// let numberBool = 10 + false;
+// console.log(numberBool); 
+
+//STEP 8
+ // The string literal is invalid -> Id use backticks 
+ let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`
+console.log(someString)
+
