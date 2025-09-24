@@ -25,24 +25,36 @@
 
 // STEP 4
 
-//CamelCase
-let firstName;
-let lastName;
-let address;
-let city;
-let state;
-let zipCode;
-let yourAge;
-let referralSource;
-let mayWeContactYou;
+// //CamelCase
+// let firstName;
+// let lastName;
+// let address;
+// let city;
+// let state;
+// let zipCode;
+// let yourAge;
+// let referralSource;
+// let mayWeContactYou;
 
-//Hungarian Notation
-let strFirstName;
-let strLastName;
-let strAddress;
-let strCity;
-let strState;
-let strZipCode;
-let numYourAge;
-let strReferralSource;
-let boolMayWeContactYou;
+// //Hungarian Notation
+// let strFirstName;
+// let strLastName;
+// let strAddress;
+// let strCity;
+// let strState;
+// let strZipCode;
+// let numYourAge;
+// let strReferralSource;
+// let boolMayWeContactYou;
+
+//STEP 5
+
+//Declare and assign on the same line
+let firstName = "Laura";
+
+//Declare first, then assign later
+let yourAge;
+yourAge = 32;
+
+//Declare multiple variables in one statement
+let mayWeContactYou = true, city = "San Diego", zipCode = "92101";
