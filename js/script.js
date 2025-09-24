@@ -136,7 +136,13 @@
 // alert(`Hello ${name}, welcome to the ${course} class!`);
 
 //STEP 16
-let name = prompt("Please enter your name:");
-let course = prompt("Please enter the class you are taking:");
+// let name = prompt("Please enter your name:");
+// let course = prompt("Please enter the class you are taking:");
 
-alert(`Hello ${name}, welcome to the ${course} class!`);
+// alert(`Hello ${name}, welcome to the ${course} class!`);
+
+// //STEP 17
+let x = 10
+let y = 20
+
+console.log(x + y);
