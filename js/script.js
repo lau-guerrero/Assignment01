@@ -62,8 +62,19 @@
 
 //STEP 6
 
-// Create variable
-let age = 25 + " years old";
+// // Create variable
+// let age = 25 + " years old";
 
-// Display in the console
-console.log(age);
+// // Display in the console
+// console.log(age);
+
+//STEP 7
+
+// Boolean + String
+let boolString = true + " is awesome";
+console.log(boolString); 
+
+
+// Number + Boolean
+let numberBool = 10 + false;
+console.log(numberBool); 
