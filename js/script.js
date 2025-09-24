@@ -174,8 +174,8 @@
 // console.log(result); 
 
 //STEP 22
-let score = 50;
-let isMember = false;
+// let score = 50;
+// let isMember = false;
 
-let result = !(score === 50) || isMember;
-console.log(result); 
+// let result = !(score === 50) || isMember;
+// console.log(result); 
