@@ -80,7 +80,14 @@
 // console.log(numberBool); 
 
 //STEP 8
- // The string literal is invalid -> Id use backticks 
- let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`
-console.log(someString)
+//  // The string literal is invalid -> Id use backticks 
+//  let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`
+// console.log(someString)
+
+//STEP 9
+let noValue = null;
+console.log(noValue); 
+
+let notAssigned;
+console.log(notAssigned);
 
