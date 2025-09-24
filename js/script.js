@@ -166,9 +166,16 @@
 // console.log(x);  
 
 //STEP 21
-let age = 22;
-let hasTicket = true;
+// let age = 22;
+// let hasTicket = true;
+// let isMember = false;
+
+// let result = (age >= 18 && age <= 25) || hasTicket;
+// console.log(result); 
+
+//STEP 22
+let score = 50;
 let isMember = false;
 
-let result = (age >= 18 && age <= 25) || hasTicket;
+let result = !(score === 50) || isMember;
 console.log(result); 
