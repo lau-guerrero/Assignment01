@@ -94,17 +94,22 @@
 //STEP 10
 
 // String 
-console.log(typeof "Hello World");
+// console.log(typeof "Hello World");
 
-// Number 
-console.log(typeof 42);           
+// // Number 
+// console.log(typeof 42);           
 
-// Boolean 
-console.log(typeof true);          
+// // Boolean 
+// console.log(typeof true);          
 
-// Object literal
-console.log(typeof { name: "Laura" }); 
+// // Object literal
+// console.log(typeof { name: "Laura" }); 
 
-// Undefined
-let notAssigned;
-console.log(typeof notAssigned);
+// // Undefined
+// let notAssigned;
+// console.log(typeof notAssigned);
+
+//STEP 11
+let myName = "Laura Guerrero";
+
+alert("Hello " + myName + ", welcome to the JavaScript class!");
