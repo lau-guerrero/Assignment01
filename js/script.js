@@ -49,12 +49,21 @@
 
 //STEP 5
 
-//Declare and assign on the same line
-let firstName = "Laura";
+// //Declare and assign on the same line
+// let firstName = "Laura";
 
-//Declare first, then assign later
-let yourAge;
-yourAge = 32;
+// //Declare first, then assign later
+// let yourAge;
+// yourAge = 32;
 
-//Declare multiple variables in one statement
-let mayWeContactYou = true, city = "San Diego", zipCode = "92101";
+// //Declare multiple variables in one statement
+// let mayWeContactYou = true, city = "San Diego", zipCode = "92101";
+
+
+//STEP 6
+
+// Create variable
+let age = 25 + " years old";
+
+// Display in the console
+console.log(age);
